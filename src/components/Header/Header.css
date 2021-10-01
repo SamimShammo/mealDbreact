@@ -1,0 +1,19 @@
+.link-style{
+    margin: 0 30px;
+    text-decoration: none;
+    color: black;
+    padding: 5px 15px;
+    font-weight: 500;
+    background-color: transparent;
+}
+.link-style:hover{
+ background-color: blue;
+ color: white;
+ border-radius: 20px;
+}
+.manu{
+    padding: 10px 0px;
+}
+.navbar-new{
+    justify-content: center;
+}

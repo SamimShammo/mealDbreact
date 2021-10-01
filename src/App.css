@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  background-image: url(./components/img/bacGroud.jpg);
+  background-attachment: fixed;
+  min-height: 1000px;
+  background-size: cover;
+  width: 100%;
 }
 
 .App-logo {

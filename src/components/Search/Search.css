@@ -1,0 +1,13 @@
+.searchFeild{
+    width: 500px;
+    display: inline;
+    margin-bottom: 20px;
+}
+.searchContainer{
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+}
+.radius{
+    border-radius: 20px;
+}
